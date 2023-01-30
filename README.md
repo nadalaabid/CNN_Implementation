@@ -1,3 +1,1 @@
-# CNN_Implementation
-# CNN_Implementation
-# CNN_Implementation
+# This is a Convolutional Neural Network (CNN) architecture implementation for computer vision applications. 
